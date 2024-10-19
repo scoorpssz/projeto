@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da79b53f-06e7-4307-927f-53c429cf5975" name="Changes" comment="Querido git SERÁ QUE PODES DAR CARALHO">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,7 @@
       <workItem from="1729180018957" duration="410000" />
       <workItem from="1729197095216" duration="1152000" />
       <workItem from="1729243524536" duration="93000" />
-      <workItem from="1729367818958" duration="333000" />
+      <workItem from="1729367818958" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="Teste :P">
       <option name="closed" value="true" />
@@ -122,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729367921511</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Querido git SERÁ QUE PODES DAR CARALHO">
+      <option name="closed" value="true" />
+      <created>1729368170373</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729368170373</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste :P" />
+    <MESSAGE value="será que deu" />
     <MESSAGE value="Querido git SERÁ QUE PODES DAR CARALHO" />
     <option name="LAST_COMMIT_MESSAGE" value="Querido git SERÁ QUE PODES DAR CARALHO" />
   </component>
